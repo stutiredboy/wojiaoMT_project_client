@@ -1,3 +1,9 @@
+FireClient/Release.win32/FireClient.lib filter=lfs diff=lfs merge=lfs -text
+FireClient/Debug.win32/engine.lib filter=lfs diff=lfs merge=lfs -text
+FireClient/Release.win32/cegui.lib filter=lfs diff=lfs merge=lfs -text
+FireClient/Debug.win32/FireClient.lib filter=lfs diff=lfs merge=lfs -text
+FireClient/Debug.win32/MT3.pdb filter=lfs diff=lfs merge=lfs -text
+FireClient/Debug.win32/cegui.lib filter=lfs diff=lfs merge=lfs -text
 *.h filter=lfs diff=lfs merge=lfs -text
 *.cpp filter=lfs diff=lfs merge=lfs -text
 *.mk filter=lfs diff=lfs merge=lfs -text
